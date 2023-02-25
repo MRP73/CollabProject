@@ -3,3 +3,7 @@ This is where I wrote the code
 More code written here
 
 Good day
+
+
+# This is an additional comment to test git, 3rd commit
+
